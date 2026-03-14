@@ -18,3 +18,22 @@ This project analyzes e-commerce sales data to identify sales trends, regional p
 
 ## Dashboard Preview
 ![Dashboard](images/powerbi_dashboard.png)
+
+## Project Structure
+E-Commerce-Sales-Data-Analysis
+│
+├ dataset
+│   └ sales_data.csv
+│
+├ images
+│   └ powerbi_dashboard.png
+│
+├ python_analysis
+│   └ sales_analysis.py
+│
+├ sql_queries
+│   └ sales_queries.sql
+│
+├ sales_database.db
+└ README.md
+```
