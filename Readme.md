@@ -1,0 +1,20 @@
+# E-Commerce Sales Data Analysis
+
+## Tools Used
+- Python
+- Pandas
+- SQL
+- Excel
+- Power BI
+
+## Project Description
+This project analyzes e-commerce sales data to identify sales trends, regional performance, and category-wise revenue.
+
+## Features
+- Data analysis using Python
+- SQL queries for data extraction
+- Excel data preprocessing
+- Interactive Power BI dashboard
+
+## Dashboard Preview
+![Dashboard](images/powerbi_dashboard.png)
