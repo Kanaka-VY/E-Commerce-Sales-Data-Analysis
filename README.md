@@ -24,17 +24,25 @@ This project analyzes e-commerce sales data to identify sales trends, regional p
 E-Commerce-Sales-Data-Analysis
 │
 ├ dataset
-│   └ sales_data.csv
-│
+ └ sales_data.csv
+ 
 ├ images
-│   └ powerbi_dashboard.png
-│
+ └ powerbi_dashboard.png
+ 
 ├ python_analysis
-│   └ sales_analysis.py
-│
+  └ sales_analysis.py
+
 ├ sql_queries
-│   └ sales_queries.sql
-│
+  └ sales_queries.sql
+
 ├ sales_database.db
 └ README.md
-```
+
+Author
+Kanaka V Y
+B.E in Artificial intelligence and machine learning
+Don Bosco Institute of Technology Bengaluru
+
+
+
+
